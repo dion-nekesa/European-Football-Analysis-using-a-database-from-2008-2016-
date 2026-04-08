@@ -19,6 +19,8 @@ Physical Profiling: Using scatter plots and linear regression equations, I mappe
 
 Tactical Speed: My analysis of build-up play identified the fastest counter-attacking teams of the era, immortalizing the high-speed transitions of the 2012-2014 seasons.
 
+https://github.com/dion-nekesa/European-Football-Analysis-using-a-database-from-2008-2016-/blob/main/scripts/data/12th_Man_Home_Win_Analysis.png.png 
+
 
 ## 🛠️ Technical Process & Methodology
 
