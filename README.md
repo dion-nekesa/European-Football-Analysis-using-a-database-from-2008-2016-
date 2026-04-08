@@ -18,8 +18,11 @@ The "12th Man" Effect: As proven in my analysis, playing at home wasn't just a p
 Physical Profiling: Using scatter plots and linear regression equations, I mapped the correlation between height and weight among elite athletes, identifying outliers like the physical dominance of Zlatan Ibrahimović.
 
 Tactical Speed: My analysis of build-up play identified the fastest counter-attacking teams of the era, immortalizing the high-speed transitions of the 2012-2014 seasons.
+<img width="539" height="312" alt="12th_Man_Home_Win_Analysis png" src="https://github.com/user-attachments/assets/f2c1b770-3a3f-457b-bfbf-0fa6a372bd74" />
 
 https://github.com/dion-nekesa/European-Football-Analysis-using-a-database-from-2008-2016-/blob/main/scripts/data/12th_Man_Home_Win_Analysis.png.png 
+
+<img width="679" height="326" alt="Player_Physical_Profile_Regression png" src="https://github.com/user-attachments/assets/b870fef5-4b19-4f76-9de7-e7420444a019" />
 
 https://github.com/dion-nekesa/European-Football-Analysis-using-a-database-from-2008-2016-/blob/main/scripts/data/Player_Physical_Profile_Regression.png.png
 
