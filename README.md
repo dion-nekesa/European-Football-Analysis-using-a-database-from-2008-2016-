@@ -21,6 +21,7 @@ Tactical Speed: My analysis of build-up play identified the fastest counter-atta
 
 https://github.com/dion-nekesa/European-Football-Analysis-using-a-database-from-2008-2016-/blob/main/scripts/data/12th_Man_Home_Win_Analysis.png.png 
 
+https://github.com/dion-nekesa/European-Football-Analysis-using-a-database-from-2008-2016-/blob/main/scripts/data/Player_Physical_Profile_Regression.png.png
 
 ## 🛠️ Technical Process & Methodology
 
