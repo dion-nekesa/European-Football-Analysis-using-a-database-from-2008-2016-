@@ -19,6 +19,22 @@ Physical Profiling: Using scatter plots and linear regression equations, I mappe
 
 Tactical Speed: My analysis of build-up play identified the fastest counter-attacking teams of the era, immortalizing the high-speed transitions of the 2012-2014 seasons.
 
+## 🛠️ Technical Process & Methodology
+
+### 1. Data Extraction (SQL & DBeaver)
+The raw data was queried from a SQLite database containing over 25,000 matches. I utilized:
+* **Complex Joins:** To connect player names with their specific attributes across different seasons.
+* **Case Statements:** To categorize match results into 'Home Win', 'Away Win', and 'Draw' for the "12th Man" analysis.
+* **Aggregations:** Using `GROUP BY` and `AVG()` to calculate performance metrics for teams like Real Madrid and Barcelona.
+
+### 2. Data Integrity & Cleaning
+Before visualization, I performed a data audit in Google Sheets to ensure:
+* **Handling Nulls:** Filtering out incomplete player records from the 2008-2016 window.
+* **Standardization:** Converting heights to centimeters and weights to pounds for consistent profiling.
+
+### 3. Statistical Analysis
+I applied a **Linear Regression** model to the physical attributes of players. As shown by the equation $y = 1.05x - 8.4$ in my scatter plot, there is a clear correlation between height and weight among elite athletes, with outliers like **Zlatan Ibrahimović** providing fascinating deviations from the norm.
+
 🚀 Let's Collaborate!
 I am a Data Analyst with a passion for turning "boring lines" of data into beautiful, strategic stories and i'm actively looking for my next gig/project!
 
